@@ -1,11 +1,10 @@
 ---
 title: 3dsmax模型制作模型单位设置和导出规范
 description: 解决3dsmax模型导出后，导入u3d没有缩放情况下，大小一致问题
-date: 2020-09-09
+date: 2021-06-09
 slug: 
 image: 
 categories:
-  - Unity3d
   - 3dsMax
 ---
 
