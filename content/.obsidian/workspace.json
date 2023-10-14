@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/Unity3d/3dmax模型制作模型单位设置和导出规范/index.zh-cn.md",
+                "file": "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/index.zh-cn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/Unity3d/3dmax模型制作模型单位设置和导出规范/index.zh-cn.md",
+                "file": "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/Unity3d/3dmax模型制作模型单位设置和导出规范/index.zh-cn.md",
+                "file": "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/Unity3d/3dmax模型制作模型单位设置和导出规范/index.zh-cn.md"
+                "file": "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/index.zh-cn.md"
               }
             }
           }
@@ -146,20 +146,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f25800629ab746b3",
+  "active": "9eefa898d7a147b2",
   "lastOpenFiles": [
+    "post/Unity3d/3dsMax",
+    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18.png",
+    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/index.zh-cn.md",
     "_index.zh-cn.md",
     "_index.md",
-    "post/Unity3d/3dmax模型制作模型单位设置和导出规范/index.zh-cn.md",
     "post/Unity3d/测试1.md",
-    "post/Unity3d/3dmax模型制作模型单位设置和导出规范",
+    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范",
     "post/chinese-test/index.zh-cn.md",
-    "post/Unity3d/3dmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-4.png",
-    "post/Unity3d/3dmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18.png",
-    "post/Unity3d/3dmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-2.png",
-    "post/Unity3d/3dmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-3.png",
-    "post/Unity3d/3dmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-1.png",
-    "post/Unity3d/3dmax模型制作模型单位设置和导出规范/attachments",
+    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-4.png",
+    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-2.png",
+    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-3.png",
+    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-1.png",
+    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments",
     "post/Unity3d",
     "post/3dsMax/pasted-img-2023-10-14.png",
     "Pasted image 20231014234423.png.md",

@@ -1,12 +1,12 @@
 ---
-title: 3dmax模型制作模型单位设置和导出规范
-description: 这是一个副标题
+title: 3dsmax模型制作模型单位设置和导出规范
+description: 解决3dsmax模型导出后，导入u3d没有缩放情况下，大小一致问题
 date: 2020-09-09
 slug: 
 image: 
 categories:
-  - Test
-  - 测试
+  - Unity3d
+  - 3dsMax
 ---
 
 1、设置显示单位为米
