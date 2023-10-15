@@ -147,10 +147,10 @@ params:
                   limit: 5
             - type: categories
               params:
-                  limit: 10
+                  limit: 100
             - type: tag-cloud
               params:
-                  limit: 10
+                  limit: 100
         page:
             - type: toc
 
@@ -190,7 +190,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/
           params:
               icon: brand-github
 
@@ -218,8 +218,8 @@ markup:
             unsafe: true
             hardWraps: true
     tableOfContents:
-        endLevel: 4
-        ordered: true
+        endLevel: 6
+        ordered: false
         startLevel: 2
     highlight:
         noClasses: false

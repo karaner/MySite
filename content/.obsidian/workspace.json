@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/Graphics/Games101/向量和线性代数/index.zh-cn.md",
-                "mode": "source",
+                "file": "post/Graphics/Games101/变换/index.zh-cn.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/Graphics/Games101/向量和线性代数/index.zh-cn.md",
+                "file": "post/Graphics/Games101/变换/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/Graphics/Games101/向量和线性代数/index.zh-cn.md",
+                "file": "post/Graphics/Games101/变换/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/Graphics/Games101/向量和线性代数/index.zh-cn.md"
+                "file": "post/Graphics/Games101/变换/index.zh-cn.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,23 +145,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f25800629ab746b3",
+  "active": "bdda0fcab55650f9",
   "lastOpenFiles": [
-    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-18-13-08.png",
-    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-18-11-53.png",
-    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-17-49-53.png",
-    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-17-48-36.png",
-    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-17-22-19.png",
-    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-17-05-08.png",
-    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-17-03-09.png",
-    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-14-34-07.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-34-11.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-33-56.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-31-10.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-27-53.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-26-16.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-19-40.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-17-51.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-14-22.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-12-42.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-05-53.png",
+    "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-05-20.png",
     "post/Graphics/Games101/向量和线性代数/index.zh-cn.md",
+    "post/Graphics/Games101/变换/index.zh-cn.md",
+    "post/Graphics/Games101/变换/attachments",
+    "2021-06-22.md",
+    "post/Graphics/Games101/变换",
     "post/Graphics/Games101/向量和线性代数/attachments",
-    "post/Graphics/Games101/向量和线性代数/pasted-img-2023-10-15-14-33-22.png",
-    "post/Graphics/Games101/向量和线性代数/pasted-img-2023-10-15-14-32-53.png",
     "post/Android/AdnroidStudio导出库Jar包位置/index.zh-cn.md",
     "post/Graphics/Games101/向量和线性代数",
-    "post/Android/AdnroidStudio导出库Jar包位置/attachments/pasted-img-2023-10-15-01-02-15.png",
     "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/index.zh-cn.md",
     "post/Graphics/Games101",
     "post/Graphics",
@@ -175,8 +178,6 @@
     "post/A",
     "post/Unity3d/TextMeshPro/Sprite Asset制作/index.zh-cn.md",
     "_index.md",
-    "post/Unity3d/TextMeshPro/Sprite Asset制作",
-    "post/Unity3d/TextMeshPro/Sprite Asset制作/attachments",
     "_index.zh-cn.md",
     "post/Unity3d/测试1.md",
     "post/chinese-test/index.zh-cn.md",
