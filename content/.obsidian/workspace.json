@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "post/Graphics/Games101/变换/index.zh-cn.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -129,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bdda0fcab55650f9",
+  "active": "f25800629ab746b3",
   "lastOpenFiles": [
     "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-34-11.png",
     "post/Graphics/Games101/变换/attachments/pasted-img-2023-10-15-20-33-56.png",
