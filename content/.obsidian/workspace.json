@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "page/about/index.zh-cn.md",
+                "file": "post/Graphics/Games101/向量和线性代数/index.zh-cn.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 291.5
   },
   "right": {
     "id": "0c052139b3aba42c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "page/about/index.zh-cn.md",
+                "file": "post/Graphics/Games101/向量和线性代数/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "page/about/index.zh-cn.md",
+                "file": "post/Graphics/Games101/向量和线性代数/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "page/about/index.zh-cn.md"
+                "file": "post/Graphics/Games101/向量和线性代数/index.zh-cn.md"
               }
             }
           }
@@ -148,35 +148,38 @@
   },
   "active": "f25800629ab746b3",
   "lastOpenFiles": [
+    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-18-13-08.png",
+    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-18-11-53.png",
+    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-17-49-53.png",
+    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-17-48-36.png",
+    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-17-22-19.png",
+    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-17-05-08.png",
+    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-17-03-09.png",
+    "post/Graphics/Games101/向量和线性代数/attachments/pasted-img-2023-10-15-14-34-07.png",
+    "post/Graphics/Games101/向量和线性代数/index.zh-cn.md",
+    "post/Graphics/Games101/向量和线性代数/attachments",
+    "post/Graphics/Games101/向量和线性代数/pasted-img-2023-10-15-14-33-22.png",
+    "post/Graphics/Games101/向量和线性代数/pasted-img-2023-10-15-14-32-53.png",
+    "post/Android/AdnroidStudio导出库Jar包位置/index.zh-cn.md",
+    "post/Graphics/Games101/向量和线性代数",
+    "post/Android/AdnroidStudio导出库Jar包位置/attachments/pasted-img-2023-10-15-01-02-15.png",
+    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/index.zh-cn.md",
+    "post/Graphics/Games101",
+    "post/Graphics",
+    "page/about/index.zh-cn.md",
     "page/about/index.md",
     "categories/Test/_index.md",
-    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/index.zh-cn.md",
-    "categories/Test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg",
-    "post/Android/AdnroidStudio导出库Jar包位置/index.zh-cn.md",
     "post/Android/AdnroidStudio导出库Jar包位置",
-    "post/Android/AdnroidStudio导出库Jar包位置/attachments/pasted-img-2023-10-15-01-02-15.png",
     "post/Android/AdnroidStudio导出库Jar包位置/attachments",
     "post/Android",
     "post/A",
     "post/Unity3d/TextMeshPro/Sprite Asset制作/index.zh-cn.md",
     "_index.md",
-    "post/Unity3d/TextMeshPro/Sprite Asset制作/attachments/pasted-img-2023-10-15-00-40-13.png",
     "post/Unity3d/TextMeshPro/Sprite Asset制作",
-    "post/Unity3d/TextMeshPro/Sprite Asset制作/attachments/pasted-img-2023-10-15-00-40-13-2.png",
-    "post/Unity3d/TextMeshPro/Sprite Asset制作/attachments/pasted-img-2023-10-15-00-40-13-1.png",
     "post/Unity3d/TextMeshPro/Sprite Asset制作/attachments",
-    "post/Unity3d/TextMeshPro",
-    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18.png",
-    "post/Unity3d/3dsMax",
     "_index.zh-cn.md",
     "post/Unity3d/测试1.md",
-    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范",
     "post/chinese-test/index.zh-cn.md",
-    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-4.png",
-    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-2.png",
-    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-3.png",
-    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments/pasted-img-2023-10-14-23-57-18-1.png",
-    "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/attachments",
     "Pasted image 20231014234423.png.md",
     "Pasted image 20231014232135.png.md",
     "post/markdown-syntax/index.md",
@@ -185,7 +188,6 @@
     "page/links/index.md",
     "image1.png.md",
     "page/search/index.md",
-    "page/archives/index.md",
-    "page/about/index.zh-cn.md"
+    "page/archives/index.md"
   ]
 }
