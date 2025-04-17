@@ -1,0 +1,7 @@
+1、发布命令 
+hugo server -t hugo-theme-stack --buildDrafts
+
+2、查看效果访问
+http://localhost:1313/
+
+3、引用的图片命名不能有空格，不然发布出去的页面图片找不到
