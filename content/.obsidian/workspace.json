@@ -11,10 +11,14 @@
             "id": "e56dc672f9d87aab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "post/OpenGL/如何在visual studio中配置freeglut和glew/index.zh-cn.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index.zh-cn"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "post/OpenGL/如何在visual studio中配置freeglut和glew/index.zh-cn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "index.zh-cn 的大纲"
             }
           }
         ],
@@ -166,15 +171,15 @@
   },
   "active": "e56dc672f9d87aab",
   "lastOpenFiles": [
+    "post/OpenGL/如何在visual studio中配置freeglut和glew/image5.png",
+    "post/OpenGL/如何在visual studio中配置freeglut和glew/image6.png",
+    "post/OpenGL/如何在visual studio中配置freeglut和glew/image3.png",
+    "post/OpenGL/如何在visual studio中配置freeglut和glew/image4.png",
+    "post/OpenGL/如何在visual studio中配置freeglut和glew/image2.png",
     "post/OpenGL/如何在visual studio中配置freeglut和glew/index.zh-cn.md",
+    "post/OpenGL/如何在visual studio中配置freeglut和glew/image1.png",
     "post/Unity3d/3dsMax/3dsmax模型制作模型单位设置和导出规范/index.zh-cn.md",
     "post/OpenGL/如何在visual studio中配置freeglut和glew/image.png",
-    "post/OpenGL/如何在visual studio中配置freeglut和glew/image 6.png",
-    "post/OpenGL/如何在visual studio中配置freeglut和glew/image 5.png",
-    "post/OpenGL/如何在visual studio中配置freeglut和glew/image 4.png",
-    "post/OpenGL/如何在visual studio中配置freeglut和glew/image 3.png",
-    "post/OpenGL/如何在visual studio中配置freeglut和glew/image 2.png",
-    "post/OpenGL/如何在visual studio中配置freeglut和glew/image 1.png",
     "post/OpenGL/如何在visual studio中配置freeglut和glew",
     "post/OpenGL",
     "_index.md",

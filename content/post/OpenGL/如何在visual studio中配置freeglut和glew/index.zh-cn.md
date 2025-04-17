@@ -6,13 +6,6 @@ categories:
   - OpenGL
 ---
 
-# 如何在visual studio中配置freeglut和glew
-
-type: Post
-status: Published
-date: 2025/02/13
-category: OpenGL
-
 ## 1 下载freeglut和glew库
 
 - 从这个地址[https://www.transmissionzero.co.uk/software/freeglut-devel/](https://www.transmissionzero.co.uk/software/freeglut-devel/)下载编译好的freeglut版本
@@ -21,7 +14,7 @@ category: OpenGL
 
 - 从这个地址[https://glew.sourceforge.net/](https://glew.sourceforge.net/)下载编译好的glew版本
 
-![image.png](image%201.png)
+![image.png](image1.png)
 
 ## 2 在Visual Studio工程中进行配置
 
@@ -31,15 +24,15 @@ category: OpenGL
 
 1. 点开“项目”，右键点击“属性”
 
-![image.png](image%202.png)
+![image.png](image2.png)
 
 2.VC++->常规->包含目录，把下载的freeglut和glew库的include文件夹添加进去，（包括后面）建议“所有配置”和“所有平台”
 
-![image.png](image%203.png)
+![image.png](image3.png)
 
 3.VC++->常规→，库目录，把下载的freeglut和glew库的lib文件夹添加进去,我电脑是64位，我这边就添加了64位的目录进去
 
-![image.png](image%204.png)
+![image.png](image4.png)
 
 ### 2.2 复制freeglut.dll程序集到生成目录里
 
@@ -95,8 +88,8 @@ int main(int argc, char** argv) {
 
 2.点击“项目”，右键点击“在文件资源管理器中打开文件夹”
 
-![image.png](image%205.png)
+![image.png](image5.png)
 
 3.讲下载下来的freeglut.dll（在下载下来的bin目录里）复制到生成目录里，再运行就正常了，这样就可以进行正常的OpenGL API测试
 
-![image.png](image%206.png)
+![image.png](image6.png)
