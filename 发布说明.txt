@@ -1,5 +1,7 @@
 1、发布命令 
 hugo server -t hugo-theme-stack --buildDrafts
+或者
+hugo server -t hugo-PaperMod --buildDrafts
 
 2、查看效果访问
 http://localhost:1313/

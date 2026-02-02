@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://adityatelange.github.io/"
-title: PaperMod
+title: 燃着的小太阳
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 theme: [hugo-PaperMod]
 
@@ -20,11 +20,11 @@ minify:
 
 pagination:
   disableAliases: false
-  pagerSize: 5
+  pagerSize: 10
 
 languages:
-  en:
-    languageName: "English"
+  zh:
+    languageName: "中文"
     weight: 1
     taxonomies:
       category: categories
@@ -32,13 +32,13 @@ languages:
       series: series
     menu:
       main:
-        - name: Archive
+        - name: 归档
           url: archives
           weight: 5
-        - name: Search
+        - name: 搜索
           url: search/
           weight: 10
-        - name: Tags
+        - name: 标签
           url: tags/
           weight: 10
         - name: WiKi
@@ -155,15 +155,15 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    Title: "好学若饥，谦卑若愚"
     Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
+      👋 欢迎来到我的小窝!
 
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
+ #    - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
 
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
+ #    - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
 
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
+ #    - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
 
   socialIcons:
     - name: github
