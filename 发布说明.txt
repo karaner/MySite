@@ -1,7 +1,7 @@
 1、发布命令 
 hugo server -t hugo-theme-stack --buildDrafts
 或者
-hugo server -t hugo-PaperMod --buildDrafts
+hugo server -t hugo-coder --buildDrafts
 
 2、查看效果访问
 http://localhost:1313/
@@ -9,3 +9,5 @@ http://localhost:1313/
 3、引用的图片命名不能有空格，不然发布出去的页面图片找不到
 
 4、Hugo -D 发布public 文件夹
+
+hugo --theme=hugo-coder --baseUrl="httpss://karaner.github.io/" --buildDrafts
