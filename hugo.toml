@@ -1,12 +1,12 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "https://karaner.github.io/"
+title = "拾贝者"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
 
 [pagination]
-pagerSize = 6
+pagerSize = 10
 
 [services]
 [services.disqus]
@@ -22,17 +22,17 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "John Doe"
+author = "K了个O"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
+description = "好学若饥，谦卑若愚。犯其至难，图其至远。"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["一个普通的干饭人"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/luizdepra/hugo-coder/tree/"
+#commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languages such as Arabic
 rtl = false
 # Specify light/dark colorscheme
