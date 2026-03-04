@@ -3,6 +3,8 @@ hugo server -t hugo-theme-stack --buildDrafts
 或者
 hugo server -t hugo-coder --buildDrafts
 
+hugo server -t hugo-even --buildDrafts
+
 2、查看效果访问
 http://localhost:1313/
 
