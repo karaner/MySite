@@ -1,7 +1,7 @@
-baseURL = "https://karaner.github.io"
+baseURL = "https://hugo-paper.vercel.app/"
 title = "Paper"
-author = "燃"
-copyright = "© 2026, 燃"
+author = "Steve Francia"
+copyright = "© 2025, lee.so"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -9,7 +9,7 @@ enableInlineShortcodes = true
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 [pagination]
-  pagerSize = 10
+  pagerSize = 3
 
 # ------------------------------
 theme = "hugo-paper"
