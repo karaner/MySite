@@ -1,4 +1,4 @@
-1、发布命令 
+1、本地发布命令 
 hugo server -t hugo-paper --buildDrafts
 
 2、查看效果访问
@@ -6,5 +6,7 @@ http://localhost:1313/
 
 3、引用的图片命名不能有空格，不然发布出去的页面图片找不到
 
-4、Hugo -D 发布public 文件夹
+4、正式发布public 文件夹
+hugo -b https://karaner.github.io/ -t hugo-paper -D
+
 
