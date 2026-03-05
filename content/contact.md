@@ -1,10 +1,10 @@
 +++
-title = "Contact"
-description = "Hugo, the world's fastest framework for building websites"
+title = "联系"
+description = "联系方式"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "lee.so"
+author = "燃"
+
 +++
 
-- [github.com/nanxiaobei](https://github.com/nanxiaobei)
-- [lee.so](https://lee.so)
+- 邮箱：wenyanhao2011@163.com

@@ -1,5 +1,5 @@
 baseURL = "https://karaner.github.io"
-title = "Paper"
+title = "文章"
 author = "燃"
 copyright = "© 2026, 燃"
 languageCode = "en"
@@ -17,12 +17,13 @@ theme = "hugo-paper"
 [params]
   color = 'linen'
   twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
+  github = 'karaner'
   instagram = 'nan.xiaobei'
 
-avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+#avatar = 'nanxiaobei@gmail.com'
+avatar = 'wenyanhao2011@163.com'
+  name = '燃'
+  bio = '好学若饥，谦卑若愚。犯其至难，图其至远。'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
@@ -37,12 +38,12 @@ avatar = 'nanxiaobei@gmail.com'
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "关于"
     url = "/about/"
     weight = 10
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "联系"
     url = "/contact/"
     weight = 10
 
@@ -54,20 +55,20 @@ series = "series"
 [privacy]
 
   [privacy.vimeo]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.x]
-    disabled = false
+    disabled = true
     enableDNT = true
     simple = true
 
   [privacy.instagram]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.youtube]
-    disabled = false
+    disabled = true
     privacyEnhanced = true
 
 [services]
